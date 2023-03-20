@@ -1,0 +1,54 @@
+# Gradle files
+.gradle/
+build/
+*.iml
+.idea/
+gradle-wrapper.jar
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+*.ipr
+*.iws
+*.iml
+.idea/
+out/
+*.class
+
+# Eclipse
+bin/
+build/
+.settings/
+.project
+.classpath
+
+# Java-specific
+*.jar
+*.war
+*.ear
+*.class
+/target/
+build.xml
+.classpath
+.project
+
+# Maven-specific
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Other
+*.swp
+*~
+.DS_Store
+Thumbs.db
